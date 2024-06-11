@@ -1,0 +1,38 @@
+{
+	"dataset": {
+		"audio_path": "dataset/wavs",
+        "duration_path": "dataset/durations",
+		"metadata_path": "dataset/metadata.json"
+	},
+	"model": {
+		"vocab_size": 150,
+		"enc_emb_dim": 256,
+		"enc_num_layer": 4,
+		"enc_num_head": 2,
+		"enc_1d_filter_size": 1024,
+		"dropout_prob": 0.1,
+		"inner_dim": 256,
+		"dp_kernel_size": 3,
+		"dp_padding": 1,
+		"max_seq_len": 3000,
+		"dec_emb_dim": 256,
+		"dec_num_layer": 4,
+		"dec_num_head": 2,
+		"dec_1d_filter_size": 1024,
+		"mel_num": 80,
+		"postnet_embedding_dim": 512,
+		"postnet_kernel_size": 5,
+		"postnet_num_layers": 5
+	},
+	"training": {
+		"sr": 22050,
+		"n_mels": 80,
+		"n_fft": 1024,
+		"hop_length": 256,
+		"win_length": 1024,
+
+		"num_epochs": 50,
+		"batch_size": 32,
+		"learning_rate": 0.01
+	}
+}
