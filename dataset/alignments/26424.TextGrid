@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.890023 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 0.890023 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0.0 
+            xmax = 0.03 
+            text = "" 
+        intervals [2]:
+            xmin = 0.03 
+            xmax = 0.39 
+            text = "що" 
+        intervals [3]:
+            xmin = 0.39 
+            xmax = 0.48 
+            text = "ж" 
+        intervals [4]:
+            xmin = 0.48 
+            xmax = 0.890023 
+            text = "добули" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 0.890023 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0.0 
+            xmax = 0.03 
+            text = "" 
+        intervals [2]:
+            xmin = 0.03 
+            xmax = 0.14 
+            text = "ʃ" 
+        intervals [3]:
+            xmin = 0.14 
+            xmax = 0.21 
+            text = "tʃ" 
+        intervals [4]:
+            xmin = 0.21 
+            xmax = 0.39 
+            text = "ɔ" 
+        intervals [5]:
+            xmin = 0.39 
+            xmax = 0.45 
+            text = "ʒ" 
+        intervals [6]:
+            xmin = 0.45 
+            xmax = 0.48 
+            text = "ɛ" 
+        intervals [7]:
+            xmin = 0.48 
+            xmax = 0.55 
+            text = "d̪" 
+        intervals [8]:
+            xmin = 0.55 
+            xmax = 0.62 
+            text = "ɔ" 
+        intervals [9]:
+            xmin = 0.62 
+            xmax = 0.69 
+            text = "b" 
+        intervals [10]:
+            xmin = 0.69 
+            xmax = 0.78 
+            text = "ʊ" 
+        intervals [11]:
+            xmin = 0.78 
+            xmax = 0.86 
+            text = "l" 
+        intervals [12]:
+            xmin = 0.86 
+            xmax = 0.890023 
+            text = "ɪ" 

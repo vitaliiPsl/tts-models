@@ -1,0 +1,32 @@
+[
+    {
+        "phoneme": "spn",
+        "start_time": 0.0,
+        "end_time": 0.41,
+        "duration": 0.41
+    },
+    {
+        "phoneme": "spn",
+        "start_time": 0.41,
+        "end_time": 1.05,
+        "duration": 0.6400000000000001
+    },
+    {
+        "phoneme": "i",
+        "start_time": 1.05,
+        "end_time": 1.21,
+        "duration": 0.15999999999999992
+    },
+    {
+        "phoneme": "spn",
+        "start_time": 1.21,
+        "end_time": 2.19,
+        "duration": 0.98
+    },
+    {
+        "phoneme": "",
+        "start_time": 2.19,
+        "end_time": 2.22,
+        "duration": 0.03000000000000025
+    }
+]

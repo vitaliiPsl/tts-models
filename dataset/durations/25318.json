@@ -1,0 +1,116 @@
+[
+    {
+        "phoneme": "",
+        "start_time": 0.0,
+        "end_time": 0.03,
+        "duration": 0.03
+    },
+    {
+        "phoneme": "ɔ",
+        "start_time": 0.03,
+        "end_time": 0.35,
+        "duration": 0.31999999999999995
+    },
+    {
+        "phoneme": "spn",
+        "start_time": 0.35,
+        "end_time": 0.84,
+        "duration": 0.49
+    },
+    {
+        "phoneme": "spn",
+        "start_time": 0.84,
+        "end_time": 1.9,
+        "duration": 1.06
+    },
+    {
+        "phoneme": "",
+        "start_time": 1.9,
+        "end_time": 1.96,
+        "duration": 0.06000000000000005
+    },
+    {
+        "phoneme": "s̪",
+        "start_time": 1.96,
+        "end_time": 2.08,
+        "duration": 0.1200000000000001
+    },
+    {
+        "phoneme": "k",
+        "start_time": 2.08,
+        "end_time": 2.16,
+        "duration": 0.08000000000000007
+    },
+    {
+        "phoneme": "ɾ",
+        "start_time": 2.16,
+        "end_time": 2.21,
+        "duration": 0.04999999999999982
+    },
+    {
+        "phoneme": "ɪ",
+        "start_time": 2.21,
+        "end_time": 2.28,
+        "duration": 0.06999999999999984
+    },
+    {
+        "phoneme": "k",
+        "start_time": 2.28,
+        "end_time": 2.38,
+        "duration": 0.10000000000000009
+    },
+    {
+        "phoneme": "n̪",
+        "start_time": 2.38,
+        "end_time": 2.42,
+        "duration": 0.040000000000000036
+    },
+    {
+        "phoneme": "u",
+        "start_time": 2.42,
+        "end_time": 2.47,
+        "duration": 0.050000000000000266
+    },
+    {
+        "phoneme": "l",
+        "start_time": 2.47,
+        "end_time": 2.51,
+        "duration": 0.03999999999999959
+    },
+    {
+        "phoneme": "ɐ",
+        "start_time": 2.51,
+        "end_time": 2.55,
+        "duration": 0.040000000000000036
+    },
+    {
+        "phoneme": "ʋ",
+        "start_time": 2.55,
+        "end_time": 2.61,
+        "duration": 0.06000000000000005
+    },
+    {
+        "phoneme": "ɔ",
+        "start_time": 2.61,
+        "end_time": 2.66,
+        "duration": 0.050000000000000266
+    },
+    {
+        "phoneme": "n̪",
+        "start_time": 2.66,
+        "end_time": 2.73,
+        "duration": 0.06999999999999984
+    },
+    {
+        "phoneme": "ɑ",
+        "start_time": 2.73,
+        "end_time": 2.86,
+        "duration": 0.1299999999999999
+    },
+    {
+        "phoneme": "",
+        "start_time": 2.86,
+        "end_time": 2.92,
+        "duration": 0.06000000000000005
+    }
+]

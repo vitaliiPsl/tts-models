@@ -1,0 +1,164 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.930023 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.930023 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0.0 
+            xmax = 0.37 
+            text = "іще" 
+        intervals [2]:
+            xmin = 0.37 
+            xmax = 0.4 
+            text = "б" 
+        intervals [3]:
+            xmin = 0.4 
+            xmax = 0.56 
+            text = "не" 
+        intervals [4]:
+            xmin = 0.56 
+            xmax = 1.39 
+            text = "підтоптатись" 
+        intervals [5]:
+            xmin = 1.39 
+            xmax = 1.83 
+            text = "стілько" 
+        intervals [6]:
+            xmin = 1.83 
+            xmax = 2.19 
+            text = "діла" 
+        intervals [7]:
+            xmin = 2.19 
+            xmax = 2.9 
+            text = "наробивши" 
+        intervals [8]:
+            xmin = 2.9 
+            xmax = 2.930023 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 2.930023 
+        intervals: size = 28 
+        intervals [1]:
+            xmin = 0.0 
+            xmax = 0.14 
+            text = "i" 
+        intervals [2]:
+            xmin = 0.14 
+            xmax = 0.2 
+            text = "ʃ" 
+        intervals [3]:
+            xmin = 0.2 
+            xmax = 0.28 
+            text = "tʃ" 
+        intervals [4]:
+            xmin = 0.28 
+            xmax = 0.37 
+            text = "e" 
+        intervals [5]:
+            xmin = 0.37 
+            xmax = 0.4 
+            text = "b" 
+        intervals [6]:
+            xmin = 0.4 
+            xmax = 0.49 
+            text = "n̪" 
+        intervals [7]:
+            xmin = 0.49 
+            xmax = 0.56 
+            text = "ɛ" 
+        intervals [8]:
+            xmin = 0.56 
+            xmax = 1.39 
+            text = "spn" 
+        intervals [9]:
+            xmin = 1.39 
+            xmax = 1.49 
+            text = "sʲ" 
+        intervals [10]:
+            xmin = 1.49 
+            xmax = 1.56 
+            text = "tʲ" 
+        intervals [11]:
+            xmin = 1.56 
+            xmax = 1.68 
+            text = "i" 
+        intervals [12]:
+            xmin = 1.68 
+            xmax = 1.69 
+            text = "ʎ" 
+        intervals [13]:
+            xmin = 1.69 
+            xmax = 1.75 
+            text = "k" 
+        intervals [14]:
+            xmin = 1.75 
+            xmax = 1.83 
+            text = "ɔ" 
+        intervals [15]:
+            xmin = 1.83 
+            xmax = 1.94 
+            text = "dʲ" 
+        intervals [16]:
+            xmin = 1.94 
+            xmax = 2.05 
+            text = "i" 
+        intervals [17]:
+            xmin = 2.05 
+            xmax = 2.13 
+            text = "l" 
+        intervals [18]:
+            xmin = 2.13 
+            xmax = 2.19 
+            text = "ɐ" 
+        intervals [19]:
+            xmin = 2.19 
+            xmax = 2.24 
+            text = "n̪" 
+        intervals [20]:
+            xmin = 2.24 
+            xmax = 2.32 
+            text = "ɐ" 
+        intervals [21]:
+            xmin = 2.32 
+            xmax = 2.36 
+            text = "ɾ" 
+        intervals [22]:
+            xmin = 2.36 
+            xmax = 2.42 
+            text = "ɔ" 
+        intervals [23]:
+            xmin = 2.42 
+            xmax = 2.52 
+            text = "b" 
+        intervals [24]:
+            xmin = 2.52 
+            xmax = 2.6 
+            text = "e" 
+        intervals [25]:
+            xmin = 2.6 
+            xmax = 2.68 
+            text = "ʋ" 
+        intervals [26]:
+            xmin = 2.68 
+            xmax = 2.8 
+            text = "ʃ" 
+        intervals [27]:
+            xmin = 2.8 
+            xmax = 2.9 
+            text = "ɪ" 
+        intervals [28]:
+            xmin = 2.9 
+            xmax = 2.930023 
+            text = "" 

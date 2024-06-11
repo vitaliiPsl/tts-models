@@ -1,0 +1,92 @@
+[
+    {
+        "phoneme": "",
+        "start_time": 0.0,
+        "end_time": 0.03,
+        "duration": 0.03
+    },
+    {
+        "phoneme": "b",
+        "start_time": 0.03,
+        "end_time": 0.14,
+        "duration": 0.11000000000000001
+    },
+    {
+        "phoneme": "ʊ",
+        "start_time": 0.14,
+        "end_time": 0.25,
+        "duration": 0.10999999999999999
+    },
+    {
+        "phoneme": "l",
+        "start_time": 0.25,
+        "end_time": 0.35,
+        "duration": 0.09999999999999998
+    },
+    {
+        "phoneme": "ɔ",
+        "start_time": 0.35,
+        "end_time": 0.44,
+        "duration": 0.09000000000000002
+    },
+    {
+        "phoneme": "pʲ",
+        "start_time": 0.44,
+        "end_time": 0.54,
+        "duration": 0.10000000000000003
+    },
+    {
+        "phoneme": "i",
+        "start_time": 0.54,
+        "end_time": 0.63,
+        "duration": 0.08999999999999997
+    },
+    {
+        "phoneme": "d̪",
+        "start_time": 0.63,
+        "end_time": 0.72,
+        "duration": 0.08999999999999997
+    },
+    {
+        "phoneme": "pʲ",
+        "start_time": 0.72,
+        "end_time": 0.83,
+        "duration": 0.10999999999999999
+    },
+    {
+        "phoneme": "i",
+        "start_time": 0.83,
+        "end_time": 0.99,
+        "duration": 0.16000000000000003
+    },
+    {
+        "phoneme": "ʋ",
+        "start_time": 0.99,
+        "end_time": 1.04,
+        "duration": 0.050000000000000044
+    },
+    {
+        "phoneme": "ɲ",
+        "start_time": 1.04,
+        "end_time": 1.11,
+        "duration": 0.07000000000000006
+    },
+    {
+        "phoneme": "i",
+        "start_time": 1.11,
+        "end_time": 1.21,
+        "duration": 0.09999999999999987
+    },
+    {
+        "phoneme": "tʃ",
+        "start_time": 1.21,
+        "end_time": 1.35,
+        "duration": 0.14000000000000012
+    },
+    {
+        "phoneme": "",
+        "start_time": 1.35,
+        "end_time": 1.38,
+        "duration": 0.029999999999999805
+    }
+]

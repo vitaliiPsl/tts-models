@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.28 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.28 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0.0 
+            xmax = 0.03 
+            text = "" 
+        intervals [2]:
+            xmin = 0.03 
+            xmax = 0.26 
+            text = "над" 
+        intervals [3]:
+            xmin = 0.26 
+            xmax = 0.76 
+            text = "сонцем" 
+        intervals [4]:
+            xmin = 0.76 
+            xmax = 1.25 
+            text = "силу" 
+        intervals [5]:
+            xmin = 1.25 
+            xmax = 1.28 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.28 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0.0 
+            xmax = 0.03 
+            text = "" 
+        intervals [2]:
+            xmin = 0.03 
+            xmax = 0.13 
+            text = "n̪" 
+        intervals [3]:
+            xmin = 0.13 
+            xmax = 0.19 
+            text = "ɑ" 
+        intervals [4]:
+            xmin = 0.19 
+            xmax = 0.26 
+            text = "d̪" 
+        intervals [5]:
+            xmin = 0.26 
+            xmax = 0.37 
+            text = "s̪" 
+        intervals [6]:
+            xmin = 0.37 
+            xmax = 0.48 
+            text = "ɔ" 
+        intervals [7]:
+            xmin = 0.48 
+            xmax = 0.56 
+            text = "n̪" 
+        intervals [8]:
+            xmin = 0.56 
+            xmax = 0.63 
+            text = "t̪s̪" 
+        intervals [9]:
+            xmin = 0.63 
+            xmax = 0.68 
+            text = "e" 
+        intervals [10]:
+            xmin = 0.68 
+            xmax = 0.76 
+            text = "m" 
+        intervals [11]:
+            xmin = 0.76 
+            xmax = 0.9 
+            text = "s̪" 
+        intervals [12]:
+            xmin = 0.9 
+            xmax = 1.0 
+            text = "ɪ" 
+        intervals [13]:
+            xmin = 1.0 
+            xmax = 1.12 
+            text = "l" 
+        intervals [14]:
+            xmin = 1.12 
+            xmax = 1.25 
+            text = "ʊ" 
+        intervals [15]:
+            xmin = 1.25 
+            xmax = 1.28 
+            text = "" 

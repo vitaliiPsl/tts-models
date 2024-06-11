@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.190023 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.190023 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0.0 
+            xmax = 0.12 
+            text = "а" 
+        intervals [2]:
+            xmin = 0.12 
+            xmax = 0.45 
+            text = "ліски" 
+        intervals [3]:
+            xmin = 0.45 
+            xmax = 0.67 
+            text = "тобі" 
+        intervals [4]:
+            xmin = 0.67 
+            xmax = 0.89 
+            text = "на" 
+        intervals [5]:
+            xmin = 0.89 
+            xmax = 1.190023 
+            text = "що" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.190023 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0.0 
+            xmax = 0.12 
+            text = "ɑ" 
+        intervals [2]:
+            xmin = 0.12 
+            xmax = 0.45 
+            text = "spn" 
+        intervals [3]:
+            xmin = 0.45 
+            xmax = 0.51 
+            text = "t̪" 
+        intervals [4]:
+            xmin = 0.51 
+            xmax = 0.55 
+            text = "o" 
+        intervals [5]:
+            xmin = 0.55 
+            xmax = 0.62 
+            text = "bʲ" 
+        intervals [6]:
+            xmin = 0.62 
+            xmax = 0.67 
+            text = "i" 
+        intervals [7]:
+            xmin = 0.67 
+            xmax = 0.74 
+            text = "n̪" 
+        intervals [8]:
+            xmin = 0.74 
+            xmax = 0.89 
+            text = "ɑ" 
+        intervals [9]:
+            xmin = 0.89 
+            xmax = 0.98 
+            text = "ʃ" 
+        intervals [10]:
+            xmin = 0.98 
+            xmax = 1.08 
+            text = "tʃ" 
+        intervals [11]:
+            xmin = 1.08 
+            xmax = 1.190023 
+            text = "ɔ" 

@@ -1,0 +1,116 @@
+[
+    {
+        "phoneme": "",
+        "start_time": 0.0,
+        "end_time": 0.05,
+        "duration": 0.05
+    },
+    {
+        "phoneme": "ɑ",
+        "start_time": 0.05,
+        "end_time": 0.18,
+        "duration": 0.13
+    },
+    {
+        "phoneme": "ʃ",
+        "start_time": 0.18,
+        "end_time": 0.25,
+        "duration": 0.07
+    },
+    {
+        "phoneme": "tʃ",
+        "start_time": 0.25,
+        "end_time": 0.32,
+        "duration": 0.07
+    },
+    {
+        "phoneme": "ɔ",
+        "start_time": 0.32,
+        "end_time": 0.38,
+        "duration": 0.06
+    },
+    {
+        "phoneme": "t̪",
+        "start_time": 0.38,
+        "end_time": 0.44,
+        "duration": 0.06
+    },
+    {
+        "phoneme": "ɐ",
+        "start_time": 0.44,
+        "end_time": 0.5,
+        "duration": 0.06
+    },
+    {
+        "phoneme": "k",
+        "start_time": 0.5,
+        "end_time": 0.58,
+        "duration": 0.07999999999999996
+    },
+    {
+        "phoneme": "ɛ",
+        "start_time": 0.58,
+        "end_time": 0.75,
+        "duration": 0.17000000000000004
+    },
+    {
+        "phoneme": "",
+        "start_time": 0.75,
+        "end_time": 0.87,
+        "duration": 0.12
+    },
+    {
+        "phoneme": "z̪",
+        "start_time": 0.87,
+        "end_time": 0.98,
+        "duration": 0.10999999999999999
+    },
+    {
+        "phoneme": "ɐ",
+        "start_time": 0.98,
+        "end_time": 1.03,
+        "duration": 0.050000000000000044
+    },
+    {
+        "phoneme": "p",
+        "start_time": 1.03,
+        "end_time": 1.1,
+        "duration": 0.07000000000000006
+    },
+    {
+        "phoneme": "e",
+        "start_time": 1.1,
+        "end_time": 1.14,
+        "duration": 0.039999999999999813
+    },
+    {
+        "phoneme": "t̪",
+        "start_time": 1.14,
+        "end_time": 1.21,
+        "duration": 0.07000000000000006
+    },
+    {
+        "phoneme": "ɑ",
+        "start_time": 1.21,
+        "end_time": 1.25,
+        "duration": 0.040000000000000036
+    },
+    {
+        "phoneme": "ʋ",
+        "start_time": 1.25,
+        "end_time": 1.32,
+        "duration": 0.07000000000000006
+    },
+    {
+        "phoneme": "j",
+        "start_time": 1.32,
+        "end_time": 1.41,
+        "duration": 0.08999999999999986
+    },
+    {
+        "phoneme": "ɑ",
+        "start_time": 1.41,
+        "end_time": 1.55002,
+        "duration": 0.14002000000000003
+    }
+]

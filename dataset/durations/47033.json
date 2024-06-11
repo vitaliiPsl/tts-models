@@ -1,0 +1,98 @@
+[
+    {
+        "phoneme": "",
+        "start_time": 0.0,
+        "end_time": 0.05,
+        "duration": 0.05
+    },
+    {
+        "phoneme": "ɑ",
+        "start_time": 0.05,
+        "end_time": 0.2,
+        "duration": 0.15000000000000002
+    },
+    {
+        "phoneme": "z̪",
+        "start_time": 0.2,
+        "end_time": 0.26,
+        "duration": 0.06
+    },
+    {
+        "phoneme": "b",
+        "start_time": 0.26,
+        "end_time": 0.34,
+        "duration": 0.08000000000000002
+    },
+    {
+        "phoneme": "o",
+        "start_time": 0.34,
+        "end_time": 0.41,
+        "duration": 0.06999999999999995
+    },
+    {
+        "phoneme": "c",
+        "start_time": 0.41,
+        "end_time": 0.5,
+        "duration": 0.09000000000000002
+    },
+    {
+        "phoneme": "i",
+        "start_time": 0.5,
+        "end_time": 0.6,
+        "duration": 0.09999999999999998
+    },
+    {
+        "phoneme": "ʋ",
+        "start_time": 0.6,
+        "end_time": 0.75,
+        "duration": 0.15000000000000002
+    },
+    {
+        "phoneme": "ʊ",
+        "start_time": 0.75,
+        "end_time": 0.84,
+        "duration": 0.08999999999999997
+    },
+    {
+        "phoneme": "s̪",
+        "start_time": 0.84,
+        "end_time": 0.96,
+        "duration": 0.12
+    },
+    {
+        "phoneme": "ɛ",
+        "start_time": 0.96,
+        "end_time": 1.05,
+        "duration": 0.09000000000000008
+    },
+    {
+        "phoneme": "n̪",
+        "start_time": 1.05,
+        "end_time": 1.12,
+        "duration": 0.07000000000000006
+    },
+    {
+        "phoneme": "ɔ",
+        "start_time": 1.12,
+        "end_time": 1.21,
+        "duration": 0.08999999999999986
+    },
+    {
+        "phoneme": "ʋʲ",
+        "start_time": 1.21,
+        "end_time": 1.22,
+        "duration": 0.010000000000000009
+    },
+    {
+        "phoneme": "i",
+        "start_time": 1.22,
+        "end_time": 1.45,
+        "duration": 0.22999999999999998
+    },
+    {
+        "phoneme": "",
+        "start_time": 1.45,
+        "end_time": 1.49002,
+        "duration": 0.040019999999999945
+    }
+]

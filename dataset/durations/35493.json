@@ -1,0 +1,92 @@
+[
+    {
+        "phoneme": "",
+        "start_time": 0.0,
+        "end_time": 0.05,
+        "duration": 0.05
+    },
+    {
+        "phoneme": "spn",
+        "start_time": 0.05,
+        "end_time": 0.72,
+        "duration": 0.6699999999999999
+    },
+    {
+        "phoneme": "i",
+        "start_time": 0.72,
+        "end_time": 0.9,
+        "duration": 0.18000000000000005
+    },
+    {
+        "phoneme": "spn",
+        "start_time": 0.9,
+        "end_time": 1.35,
+        "duration": 0.45000000000000007
+    },
+    {
+        "phoneme": "ʋʲ",
+        "start_time": 1.35,
+        "end_time": 1.36,
+        "duration": 0.010000000000000009
+    },
+    {
+        "phoneme": "i",
+        "start_time": 1.36,
+        "end_time": 1.45,
+        "duration": 0.08999999999999986
+    },
+    {
+        "phoneme": "d̪",
+        "start_time": 1.45,
+        "end_time": 1.52,
+        "duration": 0.07000000000000006
+    },
+    {
+        "phoneme": "m",
+        "start_time": 1.52,
+        "end_time": 1.61,
+        "duration": 0.09000000000000008
+    },
+    {
+        "phoneme": "ɔ",
+        "start_time": 1.61,
+        "end_time": 1.72,
+        "duration": 0.10999999999999988
+    },
+    {
+        "phoneme": "ʋ",
+        "start_time": 1.72,
+        "end_time": 1.78,
+        "duration": 0.06000000000000005
+    },
+    {
+        "phoneme": "e",
+        "start_time": 1.78,
+        "end_time": 1.82,
+        "duration": 0.040000000000000036
+    },
+    {
+        "phoneme": "l",
+        "start_time": 1.82,
+        "end_time": 1.9,
+        "duration": 0.07999999999999985
+    },
+    {
+        "phoneme": "ɪ",
+        "start_time": 1.9,
+        "end_time": 1.96,
+        "duration": 0.06000000000000005
+    },
+    {
+        "phoneme": "sʲ",
+        "start_time": 1.96,
+        "end_time": 2.11,
+        "duration": 0.1499999999999999
+    },
+    {
+        "phoneme": "",
+        "start_time": 2.11,
+        "end_time": 2.14,
+        "duration": 0.03000000000000025
+    }
+]

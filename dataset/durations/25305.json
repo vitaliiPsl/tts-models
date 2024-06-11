@@ -1,0 +1,92 @@
+[
+    {
+        "phoneme": "",
+        "start_time": 0.0,
+        "end_time": 0.03,
+        "duration": 0.03
+    },
+    {
+        "phoneme": "p",
+        "start_time": 0.03,
+        "end_time": 0.06,
+        "duration": 0.03
+    },
+    {
+        "phoneme": "ɐ",
+        "start_time": 0.06,
+        "end_time": 0.17,
+        "duration": 0.11000000000000001
+    },
+    {
+        "phoneme": "n̪",
+        "start_time": 0.17,
+        "end_time": 0.22,
+        "duration": 0.04999999999999999
+    },
+    {
+        "phoneme": "e",
+        "start_time": 0.22,
+        "end_time": 0.3,
+        "duration": 0.07999999999999999
+    },
+    {
+        "phoneme": "spn",
+        "start_time": 0.3,
+        "end_time": 0.92,
+        "duration": 0.6200000000000001
+    },
+    {
+        "phoneme": "",
+        "start_time": 0.92,
+        "end_time": 1.1,
+        "duration": 0.18000000000000005
+    },
+    {
+        "phoneme": "z̪",
+        "start_time": 1.1,
+        "end_time": 1.21,
+        "duration": 0.10999999999999988
+    },
+    {
+        "phoneme": "ʋ",
+        "start_time": 1.21,
+        "end_time": 1.28,
+        "duration": 0.07000000000000006
+    },
+    {
+        "phoneme": "ɛ",
+        "start_time": 1.28,
+        "end_time": 1.33,
+        "duration": 0.050000000000000044
+    },
+    {
+        "phoneme": "ʎ",
+        "start_time": 1.33,
+        "end_time": 1.34,
+        "duration": 0.010000000000000009
+    },
+    {
+        "phoneme": "i",
+        "start_time": 1.34,
+        "end_time": 1.43,
+        "duration": 0.08999999999999986
+    },
+    {
+        "phoneme": "ʋ",
+        "start_time": 1.43,
+        "end_time": 1.57,
+        "duration": 0.14000000000000012
+    },
+    {
+        "phoneme": "spn",
+        "start_time": 1.57,
+        "end_time": 1.92,
+        "duration": 0.34999999999999987
+    },
+    {
+        "phoneme": "",
+        "start_time": 1.92,
+        "end_time": 1.97002,
+        "duration": 0.050020000000000175
+    }
+]

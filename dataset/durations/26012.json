@@ -1,0 +1,68 @@
+[
+    {
+        "phoneme": "",
+        "start_time": 0.0,
+        "end_time": 0.03,
+        "duration": 0.03
+    },
+    {
+        "phoneme": "p",
+        "start_time": 0.03,
+        "end_time": 0.06,
+        "duration": 0.03
+    },
+    {
+        "phoneme": "ɔ",
+        "start_time": 0.06,
+        "end_time": 0.13,
+        "duration": 0.07
+    },
+    {
+        "phoneme": "k",
+        "start_time": 0.13,
+        "end_time": 0.21,
+        "duration": 0.07999999999999999
+    },
+    {
+        "phoneme": "ɪ",
+        "start_time": 0.21,
+        "end_time": 0.33,
+        "duration": 0.12000000000000002
+    },
+    {
+        "phoneme": "ʃ",
+        "start_time": 0.33,
+        "end_time": 0.44,
+        "duration": 0.10999999999999999
+    },
+    {
+        "phoneme": "tʃ",
+        "start_time": 0.44,
+        "end_time": 0.47,
+        "duration": 0.02999999999999997
+    },
+    {
+        "phoneme": "ɛ",
+        "start_time": 0.47,
+        "end_time": 0.56,
+        "duration": 0.09000000000000008
+    },
+    {
+        "phoneme": "ɲ",
+        "start_time": 0.56,
+        "end_time": 0.66,
+        "duration": 0.09999999999999998
+    },
+    {
+        "phoneme": "i",
+        "start_time": 0.66,
+        "end_time": 0.81,
+        "duration": 0.15000000000000002
+    },
+    {
+        "phoneme": "",
+        "start_time": 0.81,
+        "end_time": 0.84,
+        "duration": 0.029999999999999916
+    }
+]
